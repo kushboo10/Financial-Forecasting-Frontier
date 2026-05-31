@@ -1,4 +1,0 @@
-mkdir data
-mkdir spark
-mkdir hive
-mkdir mapreduce
